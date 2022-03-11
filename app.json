@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/hxrgc/kfeus",
-  "repository": "https://github.com/hxrgc/kfeus",
+  "website": "https://github.com/hxrgc/fjsek",
+  "repository": "https://github.com/hxrgc/fjsek",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
